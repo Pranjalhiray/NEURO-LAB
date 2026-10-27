@@ -1,0 +1,11 @@
+# Install PyTorch and torchvision separately with a build matching your GPU/driver.
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.24
+scikit-learn>=1.5
+Pillow>=10.4
+tqdm>=4.66
+ipykernel>=6.29
+jupyter>=1.0

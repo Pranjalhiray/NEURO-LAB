@@ -1,0 +1,1 @@
+{"root":["./src/activitydashboard.tsx","./src/analysispanel.tsx","./src/app.tsx","./src/evaluationpage.tsx","./src/patientaccess.tsx","./src/safetymodal.tsx","./src/scanviewer.tsx","./src/api.ts","./src/main.tsx","./src/nifti.ts","./src/vite-env.d.ts"],"version":"5.7.3"}
