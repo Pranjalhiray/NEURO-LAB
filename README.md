@@ -2,6 +2,8 @@
 
 A local-first research prototype for brain MRI image classification and binary tumor-mask segmentation. It is not a clinical device and does not diagnose disease.
 
+Live: https://neuro-lab-1.onrender.com
+
 ## Current state
 
 - The React interface and FastAPI service are implemented.
